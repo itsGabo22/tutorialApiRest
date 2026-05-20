@@ -1,6 +1,9 @@
 # Biblioteca API REST
 
-Este repositorio contiene mi entrega final del proyecto de Diseño de Software (4° semestre), donde construí una API REST para gestión de biblioteca usando arquitectura en 5 capas: `Model`, `Repository`, `DTO`, `Service` (interfaz + implementación) y `Controller`.
+Este repositorio contiene mi entrega final del taller de Diseño de Software (4° semestre), donde construí una API REST para gestión de biblioteca usando arquitectura en 5 capas: `Model`, `Repository`, `DTO`, `Service` (interfaz + implementación) y `Controller`. 
+
+El desarrollo se realizó siguiendo este [Tutorial Completo de API REST con Spring Boot](https://github.com).
+
 
 ## Tecnologías que usé
 
